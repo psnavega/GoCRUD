@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>Album CRUD API</title>
-</head>
-
 <body>
   <h1>Album CRUD API</h1>
   <p>This is an API application for an album CRUD.</p>
